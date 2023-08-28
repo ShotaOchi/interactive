@@ -1,0 +1,2 @@
+Note that interactive function behaves differently if it is called from Rcpp.
+intetractive funcion returns FALSE but interactive_rcpp function returns TRUE when checking package.
